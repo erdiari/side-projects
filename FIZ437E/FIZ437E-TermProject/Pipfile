@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+scipy = "*"
+jupyterlab = "*"
+librosa = "*"
+matplotlib = "*"
+toml = "*"
+tensorflow = "*"
+tensorboard = "*"
+pydot = "*"
+graphviz = "*"
+
+[dev-packages]
+
+[requires]

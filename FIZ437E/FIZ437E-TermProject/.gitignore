@@ -1,0 +1,8 @@
+Music/
+model/
+Data/*.npy
+Data/*.npz
+logs/*
+.ipynb_checkpoints
+.vscode
+training_checkpoints
